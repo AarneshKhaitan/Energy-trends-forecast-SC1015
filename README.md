@@ -51,6 +51,6 @@ Key learnings from the project include:
 - *Data Transformation:* Techniques for transforming time series data to mitigate noise and enhance analysis.
 
 ## References
-1. (https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp#:~:text=An%20autoregressive%20integrated%20moving%20average%2C%20or%20ARIMA%2C%20is%20a%20statistical,values%20based%20on%20past%20values)
-2. (https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6)
-3. (https://scikit-learn.org/stable/auto_examples/ensemble/plot_isolation_forest.html)
+1. https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp#:~:text=An%20autoregressive%20integrated%20moving%20average%2C%20or%20ARIMA%2C%20is%20a%20statistical,values%20based%20on%20past%20values
+2. https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
+3. https://scikit-learn.org/stable/auto_examples/ensemble/plot_isolation_forest.html
