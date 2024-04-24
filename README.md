@@ -8,14 +8,14 @@ This Mini-Project, developed for SC1015 (Introduction to Data Science and Artifi
 
 This repository contains a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). Our project explores the growth potential of renewable energy production relative to global energy consumption through advanced forecasting models. Please view the source code and accompanying documents in the following order:
 
-1. [Data Cleaning , Preprocessing and Exploratory Data Analysis (EDA)]
-2. [Forecasting Future Trends]
-3. [Anamoly Detection]
+1. [Data Cleaning , Preprocessing and Exploratory Data Analysis (EDA)](https://github.com/AarneshKhaitan/Energy-trends-forecast-SC1015/blob/main/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis.ipynb)
+2. [Forecasting Future Trends](https://github.com/AarneshKhaitan/Energy-trends-forecast-SC1015/blob/main/Forecasting.ipynb)
+3. [Anamoly Detection](https://github.com/AarneshKhaitan/Energy-trends-forecast-SC1015/blob/main/AnamolyDetectionOfCountryConsumption.ipynb)
 
 ## Contributors
 
-- Aryan Jain - Machine Learning (SARIMAX, ARIMA, Isolation Forest)
-- Aarnesh Khaitan - Exploratory Data Analysis (EDA), Data Extraction
+- Aryan Jain(@aryanjain285) - Machine Learning (SARIMAX, ARIMA, Isolation Forest)
+- Aarnesh Khaitan(@AarneshKhaitan) - Exploratory Data Analysis (EDA), Data Extraction
 
 ## Problem Definition
 
