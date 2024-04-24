@@ -22,7 +22,7 @@ Here are our [slides](https://www.canva.com/design/DAGDD6tanBs/46au_mn7-X3wHc3-8
 ## Problem Definition
 
 Our project seeks to answer two key questions:
-- Can renewable energy production shares keep up with the drastically increasing global energy consumption?
+- Will renewable energy production share keep up with the drastically increasing global energy consumption by 2047?
 - Which countries have abnormally high energy consumption, identified using the Isolation Forest model, and how should these nations prioritize increasing renewable energy production?
 
 ## Models Used
