@@ -8,11 +8,9 @@ This Mini-Project, developed for SC1015 (Introduction to Data Science and Artifi
 
 This repository contains a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). Our project explores the growth potential of renewable energy production relative to global energy consumption through advanced forecasting models. Please view the source code and accompanying documents in the following order:
 
-1. Data Extraction Scripts
-2. Data Cleaning and Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Model Building and Evaluation
-5. Conclusions and Recommendations
+1. [Data Cleaning , Preprocessing and Exploratory Data Analysis (EDA)]
+2. [Forecasting Future Trends]
+3. [Anamoly Detection]
 
 ## Contributors
 
