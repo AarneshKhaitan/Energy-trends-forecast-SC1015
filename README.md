@@ -14,8 +14,8 @@ This repository contains a Mini-Project for SC1015 (Introduction to Data Science
 
 ## Contributors
 
-- Aryan Jain(@aryanjain285) - Machine Learning (SARIMAX, ARIMA, Isolation Forest)
-- Aarnesh Khaitan(@AarneshKhaitan) - Exploratory Data Analysis (EDA), Data Extraction
+- @aryanjain285 - Machine Learning (SARIMAX, ARIMA, Isolation Forest)
+- @AarneshKhaitan - Exploratory Data Analysis (EDA), Data Extraction
 
 ## Problem Definition
 
