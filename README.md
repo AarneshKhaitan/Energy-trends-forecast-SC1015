@@ -12,6 +12,8 @@ This repository contains a Mini-Project for SC1015 (Introduction to Data Science
 2. [Forecasting Future Trends](https://github.com/AarneshKhaitan/Energy-trends-forecast-SC1015/blob/main/Forecasting.ipynb)
 3. [Anamoly Detection](https://github.com/AarneshKhaitan/Energy-trends-forecast-SC1015/blob/main/AnamolyDetectionOfCountryConsumption.ipynb)
 
+Here are our [slides](https://www.canva.com/design/DAGDD6tanBs/46au_mn7-X3wHc3-88UCgQ/edit?utm_content=DAGDD6tanBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [video](https://www.youtube.com/watch?v=1NE82i3MVQQ)
+
 ## Contributors
 
 - @aryanjain285 - Machine Learning (SARIMAX, ARIMA, Isolation Forest)
